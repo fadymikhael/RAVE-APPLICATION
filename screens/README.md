@@ -2,11 +2,16 @@
 
 A React Native Expo app for audio timbre transfer using RAVE models, connected to a Python Flask server.
 
+## 📲 Test the app on your mobile
+
+Open [this Expo link](https://expo.dev/preview/update?message=Add+README&updateRuntimeVersion=1.0.0&createdAt=2025-07-12T15%3A00%3A53.487Z&slug=exp&projectId=2c76bed0-26ed-4f86-8449-fc5846eb5393&group=e82ae2ad-dea4-46a8-bd39-04306ea52982) in your browser and scan the QR code with the Expo Go app.
+
+
 ## Features
 
 - Connect to a Flask server (set IP/port in app).
 - Select RAVE models (Jazz, Darbouka, Parole, Cats, Dogs).
-- Record audio or use default `sample.mp3`.
+- Record audio or use default `sample.mp3`.stat
 - Transform audio via server.
 - Play original/transformed audio on loudspeaker.
 - Stop playback with dedicated button.
