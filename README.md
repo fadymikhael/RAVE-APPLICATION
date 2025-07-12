@@ -58,6 +58,7 @@ Open [this Expo link](https://expo.dev/preview/update?message=Add+README&updateR
 4. Select or record audio (`sample.mp3` default).
 5. Tap “Transformer le son” to process.
 6. Play original/transformed audio; stop with “Arrêter”.
+7. Download your transformed audio
 
 ## Dependencies
 
